@@ -1,4 +1,4 @@
-📦 Order Processing and Sales Aggregation System
+📦 Order Processing and Sales Summary System
 
 This project reads order data from a text file and generates a  
 product-wise summary report. It also handles invalid data  
